@@ -1,5 +1,8 @@
 ## Knuth–Morris–Pratt algorithm
 
+KMP Algorithm is one of the most popular patterns matching algorithms. KMP stands for Knuth Morris Pratt. KMP algorithm was invented by Donald Knuth and Vaughan Pratt together and independently by James H Morris in the year 1970. In the year 1977, all the three jointly published KMP Algorithm.
+KMP algorithm was the first linear time complexity algorithm for string matching.
+
 ### References
 
 https://www.cs.auckland.ac.nz/courses/compsci369s1c/lectures/GG-notes/CS369-StringAlgs.pdf
