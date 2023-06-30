@@ -14,3 +14,7 @@ https://web.stanford.edu/class/cs97si/10-string-algorithms.pdf
 https://cse.buffalo.edu/faculty/miller/Courses/CSE633/Priya-Rao-Spring-2020.pdf
 
 https://www.geeksforgeeks.org/kmp-algorithm-for-pattern-searching/
+
+### Practice 
+
+https://infoarena.ro/problema/strmatch
