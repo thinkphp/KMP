@@ -15,6 +15,8 @@ https://cse.buffalo.edu/faculty/miller/Courses/CSE633/Priya-Rao-Spring-2020.pdf
 
 https://www.geeksforgeeks.org/kmp-algorithm-for-pattern-searching/
 
+https://sites.google.com/site/centrulinfo1/materiale-video/algoritmi-video/kmp?authuser=0
+
 ### Practice 
 
 https://infoarena.ro/problema/strmatch
