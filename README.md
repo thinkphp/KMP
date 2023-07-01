@@ -17,6 +17,8 @@ https://www.geeksforgeeks.org/kmp-algorithm-for-pattern-searching/
 
 https://sites.google.com/site/centrulinfo1/materiale-video/algoritmi-video/kmp?authuser=0
 
+https://youtu.be/1Z--FP48Y20
+
 ### Practice 
 
 https://infoarena.ro/problema/strmatch
