@@ -22,3 +22,4 @@ https://youtu.be/1Z--FP48Y20
 ### Practice 
 
 https://infoarena.ro/problema/strmatch
+https://codeforces.com/contest/126/problem/B
